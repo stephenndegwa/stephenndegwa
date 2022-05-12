@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stephenndegwa
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning php programmimg
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on machine learning.
 - 📫 How to reach me: info@stephenndegwa.co.ke
 
 <!---
