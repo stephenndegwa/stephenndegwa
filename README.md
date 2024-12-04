@@ -28,7 +28,7 @@ I'm a tech enthusiast and full-stack developer with a passion for building scala
 ### 🌐 Let's Connect  
 - **Website:** [Lineserve Limited](https://lineserve.africa)  
 - **Twitter:** [@stephenndegwa_](https://twitter.com/stephenndegwa_)
-- **Linkedin:** [Stephen Ndegwa](https://linkedin.com/in/stephenndegwa_)  
+- **Linkedin:** [Stephen Ndegwa](https://linkedin.com/in/stephenndegwa)  
 - **Email:** [sndegwa@lineserve.africa](mailto:sndegwa@lineserve.africa)  
 
 ---
