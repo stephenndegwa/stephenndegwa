@@ -6,30 +6,22 @@ I'm a tech enthusiast and full-stack developer with a passion for building scala
 ---
 
 ### 🔧 What I’m Working On  
-- **Lineserve:**  
-  A robust public cloud platform leveraging OpenStack to provide powerful compute, storage, and networking solutions.  
-
-- **Hostraha:**  
-  A modern platform for domain WHOIS lookups and seamless domain registrations with WHMCS integration.  
-
-- **Bulk SMS & WhatsApp System:**  
-  A comprehensive communication system enabling businesses to connect via SMS and WhatsApp through a web interface, API, or SMPP.  
-
+  
 ---
 
 ### 🌟 Skills  
 - **Frontend:** React, Next.js, TypeScript  
 - **Backend:** Node.js, Express, Microservices Architecture  
 - **DevOps:** Docker, Kubernetes, OpenStack  
-- **Networking:** pfSense, VPNs, Infrastructure Management  
+- **Networking:** pfSense, VPNs, Infrastructure Management  , IPv6
 
 ---
 
 ### 🌐 Let's Connect  
-- **Website:** [Lineserve Limited](https://lineserve.africa)  
+- **Website:** [Lineserve Limited](https://www.lineserve.africa)  
 - **Twitter:** [@stephenndegwa_](https://twitter.com/stephenndegwa_)
 - **Linkedin:** [Stephen Ndegwa](https://linkedin.com/in/stephenndegwa)  
-- **Email:** [sndegwa@lineserve.africa](mailto:sndegwa@lineserve.africa)  
+- **Email:** [sndegwa@hostraha.com](mailto:sndegwa@hostraha.com)  
 
 ---
 
